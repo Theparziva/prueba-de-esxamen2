@@ -1,0 +1,56 @@
+body {
+    background-color: lightgoldenrodyellow;
+}
+h1{
+    text-align: center;
+}
+nav{
+    text-align: center;
+    text-decoration: underline purple;
+    color: green;
+    background-color: aqua;
+}
+div.blue{
+    background-color: white;
+    color: blue;
+}
+div.nav {
+    text-align: center;
+    color: green;
+    background-color: aqua;
+    text-decoration: underline purple;
+}
+div.azul {
+    background-color: blue;
+    text-align: start;
+}
+img.foto1 {
+    float: left;
+    width: 175px;
+}
+p.inicio {
+    text-align: start;
+    margin: 0%;
+}
+div.red {
+    background-color: rgb(119, 198, 247);
+    color: red;
+}
+div.azul {
+    background-color: blue;
+    text-align: start;
+}
+div.rojo {
+    background-color: red;
+}
+img.rojo2 {
+    float: right;
+    width: 185px;
+}
+div.green {
+    background-color: lightgreen;
+    color: blue;
+}
+li {
+    font-weight: bolder;
+}
